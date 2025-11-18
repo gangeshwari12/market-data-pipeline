@@ -12,3 +12,5 @@ env/
 # Project specific
 temp/
 
+.env
+
